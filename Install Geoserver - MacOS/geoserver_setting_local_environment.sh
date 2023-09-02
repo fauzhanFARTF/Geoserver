@@ -1,0 +1,1 @@
+export GEOSERVER_HOME=/usr/local/geoserver

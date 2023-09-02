@@ -1,0 +1,1 @@
+sudo chown -R fauzan_nurrachman /usr/local/geoserver/
